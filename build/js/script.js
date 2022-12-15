@@ -5,7 +5,7 @@ $(function () {
   let meetMonsters = document.querySelector('#meet')
   let monsterScroll = document.querySelectorAll('#monster-group .monster')
   let navHeight = nav.scrollHeight
-  // TODO: #6 Rename these variables to make them clearer
+  // TODO: #6 Change these names to make them clearer
 
   // slowly zoom items with a class of .card on rollover
   $('.card').hover(
